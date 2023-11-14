@@ -1,0 +1,11 @@
+
+
+.navbar-nav a{
+    font-size: 18px;
+}
+
+/* .build{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjust column width as needed */
+  /* grid-gap: 10px;  
+} */ 
